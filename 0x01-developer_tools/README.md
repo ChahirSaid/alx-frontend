@@ -1,4 +1,4 @@
 # 0x01. Developer tools
 ## Tinkering with Dev Tools
-## [Website](https://dev-tools.alx-tools.com/)
 ![Dev Tools](dev-tools.jpeg)
+## [Website](https://dev-tools.alx-tools.com/)
